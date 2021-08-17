@@ -1,0 +1,57 @@
+.Container{
+    width: 1000px;
+    height: 600px;
+    background-color: silver;
+    position: absolute
+    
+}
+
+.green{
+    height: 120px;
+    background-color: green;
+    position: relative;
+    margin-top: 15px;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.blue{
+    height: 300px;
+    width: 200px;
+    background-color: blue;
+    position: relative;
+    margin: 20px;
+}
+
+.red{
+    height: 400px;
+    width: 735px;
+    background-color: red;
+    position: relative;
+    top: -320px;
+    margin-left: 250px;
+    margin-bottom: 600px;
+    
+}
+
+.yellow{
+    height: 200px;
+    width: 210px;
+    background-color: yellow;
+    position: relative;
+    top: 20px;
+    left: 20px;
+    display: inline-block;
+    box-sizing: border-box;
+    margin-right: 15px;
+}
+
+.purple{
+    height: 120px;
+    width: 670px;
+    background-color: purple;
+    position: relative;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+
